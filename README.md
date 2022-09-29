@@ -2,8 +2,7 @@
 
 **I'm a CS graduate 👩🏻‍💻 from** <a href="https://www.jazanu.edu.sa/en">Jazan University</a>
 - :collision: I’m I currently on  **BigData & AI Bootcamp** offered in SDA Academy
-- ::dizzy: I’m currently enrollment in **Full Stack JavaScript Developer** Nanodegree program
-- :zap: I’m currently working on **Personal Projects**
+- :zap: I’m currently enrollment in **Full Stack JavaScript Developer** Nanodegree program
 - 📫 How to reach me: 
 <a href="mailto:nadaoteif@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=nadaoteif@gmail.com&color=white&style=flat&logo=gmail" />
